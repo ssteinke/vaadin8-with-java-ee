@@ -1,2 +1,5 @@
-# vaadin8-with-Java-ee
-A minimal Vaadin 8 with JavaEE sample project
+# vaadin8-with-java-ee
+A minimal sample project with Vaadin 8 and JavaEE
+
+Tested with Eclipse oxygen and glassfish 4.
+http://localhost:8080/vaadin8-with-javaee/
